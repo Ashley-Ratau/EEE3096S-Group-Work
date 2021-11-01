@@ -1,3 +1,3 @@
-# EEE3096S-RTXASH001-MLDDZA001-MGGMBA003
+# EEE3096S
 
 This repo contains WorkPackage 5 and 6
